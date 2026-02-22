@@ -19,8 +19,7 @@ A comprehensive application for a pizza restaurant that allows users to customiz
     * **Live Summary:** Updates the "Order Summary" section instantly as the user makes choices.
     * **Order Confirmation:** Includes a confirmation workflow and a form reset feature.
 * **Tech Stack:** C#, WinForms, .NET Framework.
-* **Path:** [./Pizza-Project](./Pizza-Project)---
-
+* **Path:** [./Pizza-Project](https://github.com/rawan-002/.NET-Framework-Projects/tree/main/Pizza-Project)
 ##  Requirements
 To run these projects locally, you will need:
 1.  **Visual Studio** (2019 or later recommended).
