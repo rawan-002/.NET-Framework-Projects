@@ -19,8 +19,7 @@ A comprehensive application for a pizza restaurant that allows users to customiz
     * **Live Summary:** Updates the "Order Summary" section instantly as the user makes choices.
     * **Order Confirmation:** Includes a confirmation workflow and a form reset feature.
 * **Tech Stack:** C#, WinForms, .NET Framework.
-* **Path:** [`/Pizza-Project`](./Pizza-Project)
-
+* **Path:** [./Pizza-Project](./Pizza-Project)
 ---
 
 ##  Requirements
