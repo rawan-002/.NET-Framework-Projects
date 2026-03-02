@@ -10,16 +10,30 @@ The goal of this repository is to document my journey in mastering C# and deskto
 
 ---
 
-##  Current Projects
+## Current Projects
 
 ### 1. Pizza Ordering System 🍕
 A comprehensive application for a pizza restaurant that allows users to customize their orders.
 * **Key Features:**
-    * **Dynamic Pricing:** Calculates total cost based on size, toppings, and crust type using the `Tag` property.
-    * **Live Summary:** Updates the "Order Summary" section instantly as the user makes choices.
-    * **Order Confirmation:** Includes a confirmation workflow and a form reset feature.
+  * **Dynamic Pricing:** Calculates total cost based on size, toppings, and crust type using the `Tag` property.
+  * **Live Summary:** Updates the "Order Summary" section instantly as the user makes choices.
+  * **Order Confirmation:** Includes a confirmation workflow and a form reset feature.
 * **Tech Stack:** C#, WinForms, .NET Framework.
-* **Path:** [./Pizza-Project](https://github.com/rawan-002/.NET-Framework-Projects/tree/main/Pizza-Project)
+* **Path:** ./Pizza-Project
+
+### 2. Tic-Tac-Toe (X/O) Game 🎮
+A classic two-player Tic-Tac-Toe desktop game built with WinForms.
+* **Key Features:**
+  * Two-player local gameplay (Player 1 = X, Player 2 = O).
+  * Visual X/O tiles using embedded resources (Resources.XX, Resources.OO, Resources.QM).
+  * Turn indicator and winner label (lblPlayerTurn, lblWinner).
+  * Winning line highlight and draw detection (PlayCount checks).
+  * Restart/reset functionality to begin a new game.
+  * Designed to run as an MDI child (can be launched from a parent form).
+* **Tech Stack:** C#, WinForms, .NET Framework 4.7.2
+* **Namespace:** Tic_Tac_Toe_Game
+* **Path:** ./Tic-Tac-Toe
+  
 ##  Requirements
 To run these projects locally, you will need:
 1.  **Visual Studio** (2019 or later recommended).
