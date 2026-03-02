@@ -19,8 +19,7 @@ A comprehensive application for a pizza restaurant that allows users to customiz
   * **Live Summary:** Updates the "Order Summary" section instantly as the user makes choices.
   * **Order Confirmation:** Includes a confirmation workflow and a form reset feature.
 * **Tech Stack:** C#, WinForms, .NET Framework.
-* **Path:** ./Pizza-Project
-
+* **Path:** [./Pizza-Project](./Pizza-Project)
 ### 2. Tic-Tac-Toe (X/O) Game 🎮
 A classic two-player Tic-Tac-Toe desktop game built with WinForms.
 * **Key Features:**
@@ -32,8 +31,7 @@ A classic two-player Tic-Tac-Toe desktop game built with WinForms.
   * Designed to run as an MDI child (can be launched from a parent form).
 * **Tech Stack:** C#, WinForms, .NET Framework 4.7.2
 * **Namespace:** Tic_Tac_Toe_Game
-* **Path:** ./Tic-Tac-Toe
-  
+* **Path:** [./Tic-Tac-Toe_Game](./Tic-Tac-Toe_Game)  
 ##  Requirements
 To run these projects locally, you will need:
 1.  **Visual Studio** (2019 or later recommended).
